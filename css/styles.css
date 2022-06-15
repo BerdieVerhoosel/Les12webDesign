@@ -1,0 +1,109 @@
+img {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+td {
+   height: 100px;
+   width: 100px;
+   text-align: center;
+  
+}
+
+.body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+
+.header {
+    background-color: pink;
+    padding: 10px;
+}
+
+.main {
+    background-color: aqua;
+    padding: 3%;
+}
+
+.footer {
+  background-color: aquamarine;
+  padding: 8px;
+}
+
+.table {
+    border-color: black;
+    margin: auto;
+}
+
+/*Table row 1 */
+#a1 {
+    background-color: pink;
+}
+
+#b1 {
+    background-color: white;
+}
+
+#c1 {
+    background-color: lightgreen;
+}
+
+#d1 {
+    background-color: azure;
+}
+
+
+/*Table row 2 */
+#a2 {
+    background-color: plum;
+    padding-left: 2px;
+}
+
+#b2 {
+    background-color: aliceblue;
+}
+
+#c2 {
+    background-color: lavender;
+}
+
+#d2 {
+    background-color: white;
+}
+
+
+/*Table row 3 */
+#a3 {
+    background-color: greenyellow;
+}
+
+#b3 {
+    background-color: white;
+}
+
+#c3 {
+    background-color: yellow;
+}
+
+#d3 {
+    background-color: white;
+}
+
+
+/*Table row 4 */
+#a4 {
+    background-color: orange;
+}
+
+#b4 {
+    background-color: white;
+}
+
+#c4 {
+    background-color: red;
+}
+
+#d4 {
+    background-color: whitesmoke;
+}
+
